@@ -19,4 +19,4 @@ if num2 != 0:
     print("Quotient: ", quotient)
     print("Remainder: ", remainder)
 else:
-    print("Division by zero is not allowed.")
+    print("Oops...Division by zero is not allowed!")
