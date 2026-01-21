@@ -40,18 +40,18 @@ Print **five lines**:
 
 ## 🔍 Sample Input
 
-Enter the first number: 10
-Enter the second number: 3
+- Enter the first number: 10  
+- Enter the second number: 3
 
 ---
 
 ## ✅ Sample Output
 
-Sum:  13
-Difference:  7
-Product:  30
-Quotient:  3
-Remainder:  1
+- Sum:  13
+- Difference:  7
+- Product:  30
+- Quotient:  3
+- Remainder:  1
 
 ---
 
