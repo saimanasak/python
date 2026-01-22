@@ -1,6 +1,6 @@
 # 🧮 Basic Arithmetic Operations
 
-## 📌 Problem Description
+## 📌 Problem Statement
 Write a Python program that accepts **two integers** and performs the following arithmetic operations:
 
 1. Sum  
@@ -13,7 +13,7 @@ Each result must be printed on a **new line** in the specified order.
 
 ---
 
-## 📥 Input Format
+# Input Format
 - The program accepts **two integers** as input:
   - First integer `A`
   - Second integer `B`
@@ -22,7 +22,7 @@ Inputs are provided via standard input.
 
 ---
 
-## 📤 Output Format
+# Output Format
 Print **five lines**:
 1. Sum of `A` and `B` (`A + B`)
 2. Difference of `A` and `B` (`A - B`)
@@ -32,20 +32,20 @@ Print **five lines**:
 
 ---
 
-## 📌 Constraints
+# Constraints
 - `-10⁹ ≤ A, B ≤ 10⁹`
 - `B ≠ 0` (Division by zero is not allowed)
 
 ---
 
-## 🔍 Sample Input
+# Sample Input
 
 - Enter the first number: 10  
 - Enter the second number: 3
 
 ---
 
-## ✅ Sample Output
+# Sample Output
 
 - Sum:  13
 - Difference:  7
@@ -55,7 +55,7 @@ Print **five lines**:
 
 ---
 
-## 🧠 Explanation
+# Explanation
 For the input values:
 - `A = 10`
 - `B = 3`
@@ -78,5 +78,3 @@ The calculations are:
 - Ensure the quotient uses **integer division**.
 - Output must strictly follow the given order.
 - Each result should be printed on a new line.
-
----
