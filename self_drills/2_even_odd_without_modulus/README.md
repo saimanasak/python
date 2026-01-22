@@ -28,21 +28,21 @@ The program should determine the result using alternative arithmetic or logical 
 
 ---
 
-# Sample Input 1
+### Sample Input 1
 
 10
 
-# Sample Output 1
+### Sample Output 1
 
 10 is an even number.
 
 ---
 
-# Sample Input 2
+### Sample Input 2
 
 11
 
-# Sample Output 2
+### Sample Output 2
 
 11 is an odd number.
 

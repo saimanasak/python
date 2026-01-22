@@ -38,14 +38,14 @@ Print **five lines**:
 
 ---
 
-# Sample Input
+## Sample Input
 
 - Enter the first number: 10  
 - Enter the second number: 3
 
 ---
 
-# Sample Output
+## Sample Output
 
 - Sum:  13
 - Difference:  7
