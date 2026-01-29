@@ -47,6 +47,6 @@ Print **two lines**:
 ---
 
 ## 🏷️ Difficulty Level
-**Easy**
+**Beginner**
 
 ---

@@ -49,7 +49,7 @@ The program should determine the result using alternative arithmetic or logical 
 ---
 
 ## 🏷️ Difficulty Level
-**Easy**
+**Beginner**
 
 ---
 

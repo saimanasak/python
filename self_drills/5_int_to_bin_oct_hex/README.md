@@ -54,4 +54,4 @@ a
 ---
 
 ## 🏷️ Difficulty Level
-**Easy**
+**Beginner**

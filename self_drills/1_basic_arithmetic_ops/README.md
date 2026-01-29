@@ -70,7 +70,7 @@ The calculations are:
 ---
 
 ## 🏷️ Difficulty Level
-**Easy**
+**Beginner**
 
 ---
 

@@ -13,11 +13,11 @@ Use this index to quickly navigate through the problems.
 
 | # | Problem Name | Description | Difficulty |
 |---|-------------|-------------|------------|
-| 1 | [Basic Arithmetic Operations](./1_basic_arithmetic_ops) | Perform sum, difference, product, quotient, and remainder on two integers. | Easy |
-| 2 | [Even or Odd Without Modulus](./2_even_odd_without_modulus) | Check whether a number is even or odd without using the `%` operator. | Easy |
-| 3 | [Round to Two Decimal Places](./3_round_two_dec_places) | Round a floating-point number to two decimal places using different methods. | Easy |
-| 4 | [Number Type Conversions](./4_number_type_conversions) | Convert a float to integer without losing precision and convert an integer to float and complex. | Easy |
-| 5 | [Integer to Binary, Octal, and Hexadecimal](./5_int_to_bin_oct_hex) | Convert an integer to its binary, octal, and hexadecimal representations. | Easy |
+| 1 | [Basic Arithmetic Operations](./1_basic_arithmetic_ops) | Perform sum, difference, product, quotient, and remainder on two integers. | Beginner |
+| 2 | [Even or Odd Without Modulus](./2_even_odd_without_modulus) | Check whether a number is even or odd without using the `%` operator. | Beginner |
+| 3 | [Round to Two Decimal Places](./3_round_two_dec_places) | Round a floating-point number to two decimal places using different methods. | Beginner |
+| 4 | [Number Type Conversions](./4_number_type_conversions) | Convert a float to integer without losing precision and convert an integer to float and complex. | Beginner |
+| 5 | [Integer to Binary, Octal, and Hexadecimal](./5_int_to_bin_oct_hex) | Convert an integer to its binary, octal, and hexadecimal representations. | Beginner |
 
 ---
 

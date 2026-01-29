@@ -56,4 +56,4 @@ Print **three lines**:
 ---
 
 ## 🏷️ Difficulty Level
-**Easy**
+**Beginner**
