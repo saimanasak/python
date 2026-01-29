@@ -21,12 +21,14 @@ Use this index to quickly navigate through the problems.
 
 ---
 
-## 🏷️ Difficulty
-Problems in this repository are categorized by difficulty to provide a **conceptual framework for progression**, rather than a fixed sequence.
+## 🏷️ Difficulty Classification
+Problems in this are categorized by difficulty to provide a **conceptual framework for learning**, rather than a strict progression path.
 
-- **Easy** – Covers foundational Python concepts such as syntax, basic operations, and control structures.
-- **Medium** 
-- **Advanced**
+- **Beginner** – Focuses on absolute fundamentals such as basic syntax, input/output, arithmetic operations, and simple conditionals.
+- **Easy** – Reinforces core Python concepts including control flow, basic data structures, and common built-in functions.
+- **Medium** – Explores intermediate topics such as collections, modular programming, and applied logical problem-solving.
+- **Advanced** – Emphasizes complex problem-solving, performance considerations, and real-world application of Python concepts.
+- **Challenge** – Consists of open-ended or non-trivial problems that require deeper reasoning, experimentation, or multiple approaches.
 
 All difficulty levels are **actively in progress**, and problems may be added across levels as learning evolves.
 
@@ -39,6 +41,17 @@ This flexible classification supports both **focused practice** and **explorator
 - Folder names are numbered for clarity and ease of navigation, not as a strict indicator of difficulty progression.
 - Solutions emphasize **clarity, correctness, and maintainability**, with an intention to reflect good coding practices.
 - This is a **living workspace**, continuously evolving as new topics are explored and understanding deepens.
+
+---
+
+## ⚠️ Disclaimer
+The problems and solutions in this are curated based on **personal learning interests and practice goals**. 
+ 
+There is no fixed roadmap, and content may change as learning progresses.
+
+Problem selection, difficulty classification, and solution approaches may evolve over time as understanding deepens and new concepts are explored.  
+
+This is intended as a **learning workspace** rather than an authoritative reference.
 
 ---
 
