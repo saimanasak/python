@@ -1,6 +1,6 @@
 # 🧠 Python Self Drills – Problem Index
 
-This repository contains a collection of **Python practice problems**, organized from basic to expert level.  
+This folder contains a collection of **Python practice problems**, organized from basic to expert level.  
 Each problem has its own folder with:
 - Problem statement (`README.md`)
 - Python solution file(s)
