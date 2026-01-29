@@ -21,17 +21,32 @@ Use this index to quickly navigate through the problems.
 
 ---
 
-## 🏷️ Difficulty Levels
-- **Easy** – Basic Python syntax and logic
-- *(More levels will be added)*
+## 🏷️ Difficulty
+Problems in this repository are categorized by difficulty to provide a **conceptual framework for progression**, rather than a fixed sequence.
+
+- **Easy** – Covers foundational Python concepts such as syntax, basic operations, and control structures.
+- **Medium** 
+- **Advanced**
+
+All difficulty levels are **actively in progress**, and problems may be added across levels as learning evolves.
+
+This flexible classification supports both **focused practice** and **exploratory learning**, allowing concepts to be revisited and deepened over time.
 
 ---
 
-## 📌 Notes
-- Click on any **problem name** to open its folder.
-- Each folder contains a dedicated `README.md` explaining the problem in detail.
-- Solutions are written to be beginner-friendly and readable.
+## 📌 Overview
+- Each problem is organized into its own directory with a dedicated `README.md` that clearly defines the objective and expected behavior.
+- Folder names are numbered for clarity and ease of navigation, not as a strict indicator of difficulty progression.
+- Solutions emphasize **clarity, correctness, and maintainability**, with an intention to reflect good coding practices.
+- This is a **living workspace**, continuously evolving as new topics are explored and understanding deepens.
 
 ---
 
-Happy coding 🚀
+## 🧭 Guiding Principles
+- Consistent practice. Continuous improvement.  
+
+- Code. Learn. Improve.  
+
+- Practice makes clarity.
+
+Happy coding 🚀✨
