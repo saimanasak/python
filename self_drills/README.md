@@ -20,6 +20,7 @@ Use this index to quickly navigate through the problems.
 | 5 | [Integer to Binary, Octal, and Hexadecimal](./5_int_to_bin_oct_hex) | Convert an integer to its binary, octal, and hexadecimal representations. | Beginner |
 | 6 | [Area and Circumference of a Circle](./6_area_circum_circle) | Compute the area and circumference of a circle given its radius using `math.pi`. | Beginner |
 | 7 | [Extract Integer and Decimal Parts](./7_extract_int_dec_parts) | Extract the integer and decimal parts of a floating-point number using mathematical operations. | Beginner |
+| 8 | [Check Perfect Square](./8_check_perfect_square) | Determine whether a given integer is a perfect square using mathematical operations. | Beginner |
 
 ---
 
