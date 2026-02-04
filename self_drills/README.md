@@ -23,6 +23,15 @@ Use this index to quickly navigate through the problems.
 | 8 | [Check Perfect Square](./8_check_perfect_square) | Determine whether a given integer is a perfect square using mathematical operations. | Beginner |
 
 ---
+## 🎮 Mini Games
+
+These mini games focus on applying Python fundamentals in a more **interactive and engaging way**, combining logic, loops, and user interaction.
+
+| # | Mini Game | Description | Difficulty |
+|---|-----------|-------------|------------|
+| 1 | [Number Guessing Game](./mini_games/1_guessing_number_game) | Randomly generate a number and guide the user with hints (warm, cold, warmer, colder) until the correct guess is made. | Beginner |
+
+---
 
 ## 🏷️ Difficulty Classification
 Problems in this are categorized by difficulty to provide a **conceptual framework for learning**, rather than a strict progression path.
