@@ -22,6 +22,7 @@ Use this index to quickly navigate through the problems.
 | 7 | [Extract Integer and Decimal Parts](./7_extract_int_dec_parts) | Extract the integer and decimal parts of a floating-point number using mathematical operations. | Beginner |
 | 8 | [Check Perfect Square](./8_check_perfect_square) | Determine whether a given integer is a perfect square using mathematical operations. | Beginner |
 | 9 | [Check Number Sign](./9_check_pos_neg) | Determine whether a given number is positive, negative, or zero using conditional statements. | Beginner |
+| 10 | [Find the Larger Number](./10_find_larger_bet_two) | Compare two numbers and print the larger one without using the built-in `max()` function. | Beginner |
 
 
 ---
