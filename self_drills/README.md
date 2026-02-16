@@ -23,7 +23,7 @@ Use this index to quickly navigate through the problems.
 | 8 | [Check Perfect Square](./8_check_perfect_square) | Determine whether a given integer is a perfect square using mathematical operations. | Beginner |
 | 9 | [Check Number Sign](./9_check_pos_neg) | Determine whether a given number is positive, negative, or zero using conditional statements. | Beginner |
 | 10 | [Find the Larger Number](./10_find_larger_bet_two) | Compare two numbers and print the larger one without using the built-in `max()` function. | Beginner |
-
+| 11 | [Check Divisibility by 3 and 5](./11_div_3_and_5) | Determine whether a given number is divisible by both 3 and 5. | Beginner |
 
 ---
 ## 🎮 Mini Games
